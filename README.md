@@ -100,6 +100,7 @@ https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-ru
 ultra-marathon-data-analysis/
 │
 ├── data/
+│   └── README.md
 │
 ├── notebooks/
 │   └── Ultra_Marathon_EDA.ipynb
@@ -115,8 +116,6 @@ ultra-marathon-data-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
-
 ---
 
 # 📊 Exploratory Data Analysis Workflow
