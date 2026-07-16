@@ -14,7 +14,7 @@ Exploratory Data Analysis (EDA) of the Ultra Marathon Running Dataset using Pyth
 </p>
 
 <p align="center">
-<img src="images/project_cover.png" alt="Project Cover" width="900"/>
+<img src="images/project_cover.png" alt="project Cover" width="900"/>
 </p>
 
 ---
